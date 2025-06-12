@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/[locale]/about/page": "/[locale]/about",
+  "/[locale]/blog/page": "/[locale]/blog",
+  "/[locale]/calendar/page": "/[locale]/calendar",
+  "/[locale]/contact/page": "/[locale]/contact",
+  "/[locale]/missions/page": "/[locale]/missions",
+  "/[locale]/page": "/[locale]"
+}
