@@ -1,0 +1,346 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos de nous",
+    "missions": "Nos Missions",
+    "blog": "Actualités et Blog",
+    "calendar": "Calendrier 2025",
+    "contact": "Contact",
+    "skipToContent": "Aller au contenu principal",
+    "menuLabel": "Menu de navigation"
+  },
+  "home": {
+    "hero": {
+      "title": {
+        "line1": "Association Professionnelle des",
+        "line2": "Courtiers d'Assurances",
+        "line3": "et de Réassurance du Cameroun"
+      },
+      "subtitle": "Promouvoir l'excellence dans le courtage d'assurance et de réassurance au Cameroun pour un secteur plus fort et plus transparent.",
+      "cta": {
+        "discover": "Découvrir l'APCAR",
+        "contact": "Nous Contacter"
+      },
+      "insuranceCard": {
+        "title": "INSURANCE",
+        "text": "Cliquez pour plus d'informations sur nos services d'assurance",
+        "button": "En savoir plus"
+      }
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "L'APCAR s'engage à fournir une gamme complète de services pour soutenir et développer la profession de courtier d'assurance au Cameroun.",
+      "items": {
+        "promotion": {
+          "title": "Promotion du Métier de Courtier",
+          "description": "Renforcer l'image et le rôle des courtiers d'assurance au Cameroun."
+        },
+        "training": {
+          "title": "Formation et Développement",
+          "description": "Offrir des formations continues pour améliorer les compétences de nos membres."
+        },
+        "ethics": {
+          "title": "Éthique Professionnelle",
+          "description": "Promouvoir les normes d'éthique les plus élevées dans notre profession."
+        },
+        "networking": {
+          "title": "Réseautage et Collaboration",
+          "description": "Faciliter le partage d'expériences et les opportunités de collaboration entre membres."
+        },
+        "studies": {
+          "title": "Études et Statistiques",
+          "description": "Produire des analyses et des données sur le marché de l'assurance."
+        },
+        "regulatory": {
+          "title": "Veille Réglementaire",
+          "description": "Informer nos membres des évolutions réglementaires du secteur."
+        }
+      }
+    },
+    "stats": {
+      "title": "L'APCAR en Chiffres",
+      "subtitle": "Notre impact sur le secteur de l'assurance au Cameroun en quelques chiffres clés.",
+      "items": {
+        "members": {
+          "title": "Membres",
+          "value": "50+",
+          "description": "Courtiers membres actifs"
+        },
+        "training": {
+          "title": "Formations",
+          "value": "25+",
+          "description": "Sessions de formation par an"
+        },
+        "experience": {
+          "title": "Expérience",
+          "value": "15 ans",
+          "description": "D'expertise et d'engagement"
+        },
+        "partners": {
+          "title": "Partenaires",
+          "value": "30+",
+          "description": "Partenaires institutionnels"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Témoignages de nos Membres",
+      "subtitle": "Découvrez ce que nos membres disent à propos de l'APCAR et comment notre association les a aidés dans leur développement professionnel.",
+      "items": {
+        "alexandre": {
+          "quote": "L'APCAR a joué un rôle crucial dans le développement de mon cabinet de courtage. Grâce à leurs formations et à leur réseau, j'ai pu améliorer mes services et développer mon activité.",
+          "name": "Alexandre Nkomo",
+          "position": "Directeur, Assur Plus Cameroun"
+        },
+        "marie": {
+          "quote": "En tant que nouvelle courtière, j'ai trouvé dans l'APCAR un soutien inestimable. Les ressources et les conseils que j'ai reçus m'ont permis de naviguer avec confiance dans ce secteur complexe.",
+          "name": "Marie Nguma",
+          "position": "Fondatrice, MN Assurances"
+        },
+        "jeanPierre": {
+          "quote": "Les initiatives réglementaires de l'APCAR ont grandement contribué à la professionnalisation de notre secteur. Leur travail bénéficie à tous les courtiers et à leurs clients.",
+          "name": "Jean-Pierre Mbou",
+          "position": "PDG, Courtage International"
+        },
+        "sandrine": {
+          "quote": "L'APCAR est un partenaire essentiel pour tous les professionnels de l'assurance au Cameroun. Leur engagement pour la qualité et l'éthique élève l'ensemble de la profession.",
+          "name": "Sandrine Ateba",
+          "position": "Directrice Générale, Ateba Assurances"
+        },
+        "patrick": {
+          "quote": "Depuis que notre cabinet a rejoint l'APCAR, nous avons pu bénéficier d'un réseau professionnel de qualité et d'opportunités de développement commercial importantes.",
+          "name": "Patrick Ondoua",
+          "position": "Directeur Commercial, AssurCo"
+        },
+        "carine": {
+          "quote": "L'expertise et le professionnalisme de l'APCAR sont remarquables. Leurs initiatives pour standardiser les pratiques dans notre industrie ont créé un environnement plus sain pour tous.",
+          "name": "Carine Mbarga",
+          "position": "Responsable, CMB Assurances"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Association Professionnelle des Courtiers d'Assurances et de Réassurance du Cameroun (APCAR)",
+    "navigation": {
+      "title": "Navigation"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Adresse:",
+      "addressValue": "Douala, Cameroun",
+      "phone": "Téléphone:",
+      "phoneValue": "+237 696 33 27 22",
+      "email": "Email:",
+      "emailValue": "contact@apcar.cm"
+    },
+    "copyright": "APCAR. Tous droits réservés."
+  },
+  "about": {
+    "hero": {
+      "title": "À Propos de l'APCAR",
+      "subtitle": "Découvrez l'Association Professionnelle des Courtiers d'Assurances et de Réassurance du Cameroun, votre partenaire de confiance depuis plus de 15 ans."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "content": {
+        "p1": "L'APCAR est l'organisation professionnelle qui représente et défend les intérêts des courtiers d'assurance et de réassurance du Cameroun. Depuis notre création, nous œuvrons pour l'excellence et la professionnalisation de notre secteur.",
+        "p2": "Nous accompagnons nos membres dans leur développement professionnel à travers des formations spécialisées, des événements de networking et une veille réglementaire constante. Notre objectif est de faire du courtage d'assurance un pilier fort et respecté de l'économie camerounaise.",
+        "p3": "En tant que voix officielle de la profession, nous entretenons des relations privilégiées avec les autorités de régulation, les compagnies d'assurance et les instances gouvernementales pour garantir un environnement favorable à l'épanouissement de nos membres."
+      }
+    },
+    "values": {
+      "title": "Nos Valeurs Fondamentales",
+      "subtitle": "Les principes qui guident notre action quotidienne et définissent notre identité professionnelle.",
+      "items": {
+        "professionalism": {
+          "title": "Professionnalisme",
+          "description": "Nous prônons l'excellence dans toutes nos activités et encourageons les plus hauts standards de compétence chez nos membres."
+        },
+        "excellence": {
+          "title": "Excellence",
+          "description": "Nous visons constamment l'amélioration continue et l'innovation dans nos pratiques et services."
+        },
+        "integrity": {
+          "title": "Intégrité",
+          "description": "Nous agissons avec transparence, honnêteté et éthique dans toutes nos relations professionnelles."
+        },
+        "collaboration": {
+          "title": "Collaboration",
+          "description": "Nous favorisons l'esprit d'équipe, le partage d'expériences et la solidarité entre nos membres."
+        }
+      }
+    },
+    "history": {
+      "title": "Notre Histoire",
+      "subtitle": "Un parcours de croissance et d'engagement au service de la profession.",
+      "timeline": {
+        "2008": {
+          "title": "Création de l'APCAR",
+          "description": "Fondation de l'association avec une vision claire : structurer et professionnaliser le secteur du courtage d'assurance au Cameroun."
+        },
+        "2012": {
+          "title": "Premier Programme de Formation",
+          "description": "Lancement de notre premier cycle de formations professionnelles destinées aux courtiers membres."
+        },
+        "2015": {
+          "title": "Reconnaissance Officielle",
+          "description": "Obtention du statut d'association professionnelle reconnue par les autorités de régulation du secteur."
+        },
+        "2018": {
+          "title": "Expansion Régionale",
+          "description": "Développement de partenariats avec des associations homologues en Afrique centrale et de l'Ouest."
+        },
+        "2021": {
+          "title": "Transformation Digitale",
+          "description": "Modernisation de nos services avec l'adoption de nouvelles technologies et plateformes numériques."
+        },
+        "2024": {
+          "title": "Vision 2030",
+          "description": "Lancement de notre plan stratégique pour faire de l'APCAR le leader du courtage d'assurance en Afrique centrale."
+        }
+      }
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "subtitle": "Des professionnels expérimentés au service de nos membres.",
+      "leadership": {
+        "title": "Direction Exécutive",
+        "positions": {
+          "president": "Président",
+          "vicePresident": "Vice-Président",
+          "secretary": "Secrétaire Général",
+          "treasurer": "Trésorier"
+        }
+      }
+    },
+    "achievements": {
+      "title": "Nos Réalisations",
+      "subtitle": "Les résultats concrets de notre engagement pour la profession.",
+      "items": {
+        "members": {
+          "number": "50+",
+          "label": "Membres Actifs",
+          "description": "Courtiers certifiés et en activité"
+        },
+        "training": {
+          "number": "200+",
+          "label": "Professionnels Formés",
+          "description": "Bénéficiaires de nos programmes"
+        },
+        "events": {
+          "number": "25+",
+          "label": "Événements Annuels",
+          "description": "Formations, conférences, assemblées"
+        },
+        "partnerships": {
+          "number": "30+",
+          "label": "Partenaires",
+          "description": "Institutions et organisations"
+        }
+      }
+    }
+  },
+  "missions": {
+    "hero": {
+      "title": "Nos Missions",
+      "subtitle": "L'APCAR œuvre quotidiennement pour le développement et la valorisation de la profession de courtier d'assurance au Cameroun."
+    },
+    "intro": {
+      "title": "Notre Engagement",
+      "content": "Depuis notre création, l'APCAR s'engage à promouvoir l'excellence dans le secteur du courtage d'assurance et de réassurance. Nos missions reflètent notre vision d'un secteur plus professionnel, plus transparent et plus fort."
+    },
+    "mission": {
+      "title": "Mission Principale",
+      "content": "Représenter, défendre et promouvoir les intérêts des courtiers d'assurance et de réassurance du Cameroun, tout en contribuant au développement du secteur de l'assurance dans le pays."
+    },
+    "objectives": {
+      "title": "Nos Objectifs Stratégiques",
+      "items": {
+        "representation": {
+          "title": "Représentation Professionnelle",
+          "description": "Être la voix officielle des courtiers d'assurance auprès des autorités de régulation, des compagnies d'assurance et des instances gouvernementales."
+        },
+        "development": {
+          "title": "Développement du Secteur",
+          "description": "Contribuer à la croissance et à la modernisation du marché de l'assurance camerounais à travers des initiatives innovantes."
+        },
+        "training": {
+          "title": "Formation Continue",
+          "description": "Organiser des formations, séminaires et ateliers pour maintenir l'excellence professionnelle de nos membres."
+        },
+        "ethics": {
+          "title": "Promotion de l'Éthique",
+          "description": "Établir et maintenir les plus hauts standards d'éthique et de déontologie dans la profession."
+        },
+        "collaboration": {
+          "title": "Coopération Internationale",
+          "description": "Développer des partenariats avec des associations homologues en Afrique et dans le monde."
+        },
+        "innovation": {
+          "title": "Innovation et Technologie",
+          "description": "Encourager l'adoption de nouvelles technologies pour moderniser les pratiques de courtage."
+        }
+      }
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Actualités et Blog",
+      "subtitle": "Restez informé des dernières nouvelles du secteur de l'assurance et des activités de l'APCAR."
+    },
+    "latest": {
+      "title": "Dernières Actualités",
+      "readMore": "Lire la suite",
+      "categories": {
+        "news": "Actualités",
+        "events": "Événements",
+        "regulations": "Réglementation",
+        "training": "Formation"
+      }
+    },
+    "featured": {
+      "title": "Articles en Vedette",
+      "subtitle": "Découvrez nos analyses et perspectives sur l'évolution du marché de l'assurance."
+    },
+    "placeholder": {
+      "title": "Contenu à venir",
+      "description": "Cette section sera bientôt enrichie avec des articles, actualités et analyses pertinentes pour notre secteur."
+    }
+  },
+  "calendar": {
+    "hero": {
+      "title": "Calendrier 2025",
+      "subtitle": "Découvrez les événements, formations et activités organisés par l'APCAR tout au long de l'année 2025."
+    },
+    "events": {
+      "title": "Événements à Venir",
+      "types": {
+        "training": "Formation",
+        "conference": "Conférence",
+        "meeting": "Assemblée",
+        "workshop": "Atelier",
+        "networking": "Réseautage"
+      }
+    },
+    "quarters": {
+      "q1": "Premier Trimestre",
+      "q2": "Deuxième Trimestre",
+      "q3": "Troisième Trimestre",
+      "q4": "Quatrième Trimestre"
+    },
+    "placeholder": {
+      "title": "Planification en cours",
+      "description": "Le calendrier détaillé des événements 2025 sera publié prochainement. Restez connectés pour ne rien manquer !"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "submit": "Envoyer",
+    "cancel": "Annuler",
+    "save": "Enregistrer"
+  }
+}
